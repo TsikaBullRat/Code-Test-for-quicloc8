@@ -1,0 +1,7 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --primary-orange: #FF5722;
+  --secondary-flesh: #FFCCBC;
+  --accent-gray: #2e302f;
+  --error-red: #fe2a39;
+}
